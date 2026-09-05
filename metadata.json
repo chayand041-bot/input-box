@@ -1,0 +1,6 @@
+{
+  "name": "Input Box",
+  "description": "Ultra-stylish Netflix-styled movie streaming platform branded Input Box featuring AI-powered recommendations, natural language search, auto-quality buffering, and dynamic multilingual subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
